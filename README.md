@@ -1,3 +1,1 @@
 # asuswrt-ac828
-
-GPL_BRT_AC828_3004.380.7357
